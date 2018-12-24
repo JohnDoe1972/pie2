@@ -1,0 +1,310 @@
+{
+    "pagination": {
+        "next_url": "/votes/?limit=20&offset=20",
+        "limit": 20,
+        "previous_url": null,
+        "offset": 0
+    },
+    "objects": [
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/984/",
+            "session": "42-1",
+            "bill_url": "/bills/42-1/C-76/",
+            "nay_total": 0,
+            "date": "2018-12-13",
+            "yea_total": 257,
+            "paired_total": 2,
+            "number": 984,
+            "description": {
+                "fr": "Motion relative aux amendements du S\u00e9nat au projet de loi C-76,Loi modifiant la Loi \u00e9lectorale du Canada et d'autres lois et apportant des modifications corr\u00e9latives \u00e0 d'autres textes l\u00e9gislatifs",
+                "en": "Motion respecting Senate amendments to Bill C-76, An Act to amend the Canada Elections Act and other Acts and to make certain consequential amendments"
+            }
+        },
+        {
+            "result": "Failed",
+            "url": "/votes/42-1/983/",
+            "session": "42-1",
+            "bill_url": "/bills/42-1/C-76/",
+            "nay_total": 189,
+            "date": "2018-12-13",
+            "yea_total": 68,
+            "paired_total": 2,
+            "number": 983,
+            "description": {
+                "fr": "Motion relative aux amendements du S\u00e9nat au projet de loi C-76,Loi modifiant la Loi \u00e9lectorale du Canada et d'autres lois et apportant des modifications corr\u00e9latives \u00e0 d'autres textes l\u00e9gislatifs (amendement)",
+                "en": "Motion respecting Senate amendments to Bill C-76, An Act to amend the Canada Elections Act and other Acts and to make certain consequential amendments (amendment)"
+            }
+        },
+        {
+            "result": "Failed",
+            "url": "/votes/42-1/982/",
+            "session": "42-1",
+            "bill_url": null,
+            "nay_total": 163,
+            "date": "2018-12-13",
+            "yea_total": 97,
+            "paired_total": 2,
+            "number": 982,
+            "description": {
+                "fr": "Motion portant production de documents P-15 (Documents relatifs \u00e0 la r\u00e9ception \u00e0 la r\u00e9sidence du haut-commissaire du Canada en Inde)",
+                "en": "Motion for the production of papers P-15 (Documents pertaining to the reception at the residence of the High Commissioner of Canada in India)"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/981/",
+            "session": "42-1",
+            "bill_url": "/bills/42-1/C-76/",
+            "nay_total": 98,
+            "date": "2018-12-13",
+            "yea_total": 167,
+            "paired_total": 2,
+            "number": 981,
+            "description": {
+                "fr": "Attribution de temps pour le projet de loi C-76, Loi modifiant la Loi \u00e9lectorale du Canada et d'autres lois et apportant des modifications corr\u00e9latives \u00e0 d'autres textes l\u00e9gislatifs",
+                "en": "Time allocation for Bill C-76, An Act to amend the Canada Elections Act and other Acts and to make certain consequential amendments"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/980/",
+            "session": "42-1",
+            "bill_url": null,
+            "nay_total": 107,
+            "date": "2018-12-12",
+            "yea_total": 165,
+            "paired_total": 2,
+            "number": 980,
+            "description": {
+                "fr": "Motion visant \u00e0 passer \u00e0 l\u2019Ordre du jour",
+                "en": "Motion to proceed to Orders of the Day"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/979/",
+            "session": "42-1",
+            "bill_url": null,
+            "nay_total": 84,
+            "date": "2018-12-12",
+            "yea_total": 212,
+            "paired_total": 2,
+            "number": 979,
+            "description": {
+                "fr": "Affaires \u00e9manant des d\u00e9put\u00e9s M-163 (Ambassadeur des femmes, de la paix et de la s\u00e9curit\u00e9)",
+                "en": "Private Members' Business M-163 (Women, Peace and Security Ambassador)"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/978/",
+            "session": "42-1",
+            "bill_url": "/bills/42-1/C-21/",
+            "nay_total": 120,
+            "date": "2018-12-11",
+            "yea_total": 164,
+            "paired_total": 2,
+            "number": 978,
+            "description": {
+                "fr": "Attribution de temps pour le projet de loi C-21, Loi modifiant la Loi sur les douanes",
+                "en": "Time allocation for Bill C-21, An Act to amend the Customs Act"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/977/",
+            "session": "42-1",
+            "bill_url": "/bills/42-1/C-51/",
+            "nay_total": 35,
+            "date": "2018-12-10",
+            "yea_total": 240,
+            "paired_total": 4,
+            "number": 977,
+            "description": {
+                "fr": "Motion relative aux amendements du S\u00e9nat au projet de loi C-51,Loi modifiant le Code criminel et la Loi sur le minist\u00e8re de la Justice et apportant des modifications corr\u00e9latives \u00e0 une autre loi",
+                "en": "Motion respecting Senate amendments to Bill C-51, An Act to amend the Criminal Code and the Department of Justice Act and to make consequential amendments to another Act"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/976/",
+            "session": "42-1",
+            "bill_url": "/bills/42-1/C-51/",
+            "nay_total": 94,
+            "date": "2018-12-10",
+            "yea_total": 152,
+            "paired_total": 0,
+            "number": 976,
+            "description": {
+                "fr": "Attribution de temps pour le projet de loi C-51, Loi modifiant le Code criminel et la Loi sur le minist\u00e8re de la Justice et apportant des modifications corr\u00e9latives \u00e0 une autre loi",
+                "en": "Time allocation for Bill C-51, An Act to amend the Criminal Code and the Department of Justice Act and to make consequential amendments to another Act"
+            }
+        },
+        {
+            "result": "Failed",
+            "url": "/votes/42-1/975/",
+            "session": "42-1",
+            "bill_url": "/bills/42-1/C-392/",
+            "nay_total": 236,
+            "date": "2018-12-05",
+            "yea_total": 46,
+            "paired_total": 4,
+            "number": 975,
+            "description": {
+                "fr": "2e lecture du projet de loi C-392, Loi modifiant la Loi sur l\u2019a\u00e9ronautique, la Loi sur les ports de p\u00eache et de plaisance et d\u2019autres lois (application du droit provincial)",
+                "en": "2nd reading of Bill C-392, An Act to amend the Aeronautics Act, the Fishing and Recreational Harbours Act and other Acts (application of provincial law)"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/974/",
+            "session": "42-1",
+            "bill_url": null,
+            "nay_total": 0,
+            "date": "2018-12-05",
+            "yea_total": 288,
+            "paired_total": 4,
+            "number": 974,
+            "description": {
+                "fr": "Affaires \u00e9manant des d\u00e9put\u00e9s M-151 (Strat\u00e9gie nationale afin de lutter contre la pollution par les plastiques)",
+                "en": "Private Members' Business M-151 (National strategy to combat plastic pollution)"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/973/",
+            "session": "42-1",
+            "bill_url": null,
+            "nay_total": 0,
+            "date": "2018-12-05",
+            "yea_total": 290,
+            "paired_total": 4,
+            "number": 973,
+            "description": {
+                "fr": "18e rapport du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
+                "en": "18th Report of the Standing Committee on Citizenship and Immigration"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/972/",
+            "session": "42-1",
+            "bill_url": "/bills/42-1/C-90/",
+            "nay_total": 134,
+            "date": "2018-12-05",
+            "yea_total": 157,
+            "paired_total": 4,
+            "number": 972,
+            "description": {
+                "fr": "3e lecture et adoption du projet de loi C-90, Loi portant octroi \u00e0 Sa Majest\u00e9 de cr\u00e9dits pour l'administration publique f\u00e9d\u00e9rale pendant l'exercice se terminant le 31 mars 2019",
+                "en": "3rd reading and adoption of Bill C-90, An Act for granting to Her Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2019"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/971/",
+            "session": "42-1",
+            "bill_url": "/bills/42-1/C-90/",
+            "nay_total": 134,
+            "date": "2018-12-05",
+            "yea_total": 157,
+            "paired_total": 4,
+            "number": 971,
+            "description": {
+                "fr": "Adoption \u00e0 l\u2019\u00e9tape du rapport du projet de loi C-90, Loi portant octroi \u00e0 Sa Majest\u00e9 de cr\u00e9dits pour l'administration publique f\u00e9d\u00e9rale pendant l'exercice se terminant le 31 mars 2019",
+                "en": "Concurrence at report stage of Bill C-90, An Act for granting to Her Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2019"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/970/",
+            "session": "42-1",
+            "bill_url": "/bills/42-1/C-90/",
+            "nay_total": 133,
+            "date": "2018-12-05",
+            "yea_total": 157,
+            "paired_total": 4,
+            "number": 970,
+            "description": {
+                "fr": "2e lecture du projet de loi C-90, Loi portant octroi \u00e0 Sa Majest\u00e9 de cr\u00e9dits pour l'administration publique f\u00e9d\u00e9rale pendant l'exercice se terminant le 31 mars 2019",
+                "en": "2nd reading of Bill C-90, An Act for granting to Her Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2019"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/969/",
+            "session": "42-1",
+            "bill_url": null,
+            "nay_total": 131,
+            "date": "2018-12-05",
+            "yea_total": 157,
+            "paired_total": 4,
+            "number": 969,
+            "description": {
+                "fr": "Adoption d\u2019un budget",
+                "en": "Concurrence in estimates"
+            }
+        },
+        {
+            "result": "Failed",
+            "url": "/votes/42-1/968/",
+            "session": "42-1",
+            "bill_url": null,
+            "nay_total": 205,
+            "date": "2018-12-05",
+            "yea_total": 85,
+            "paired_total": 4,
+            "number": 968,
+            "description": {
+                "fr": "Motion de l\u2019opposition (Politiques \u00e9conomiques d\u00e9faillantes du gouvernement)",
+                "en": "Opposition Motion (Failed economic policies of the government)"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/967/",
+            "session": "42-1",
+            "bill_url": "/bills/42-1/C-86/",
+            "nay_total": 113,
+            "date": "2018-12-03",
+            "yea_total": 163,
+            "paired_total": 0,
+            "number": 967,
+            "description": {
+                "fr": "3e lecture et adoption du projet de loi C-86, Loi no 2 portant ex\u00e9cution de certaines dispositions du budget d\u00e9pos\u00e9 au Parlement le 27 f\u00e9vrier 2018 et mettant en oeuvre d'autres mesures",
+                "en": "3rd reading and adoption of Bill C-86, A second Act to implement certain provisions of the budget tabled in Parliament on February 27, 2018 and other measures"
+            }
+        },
+        {
+            "result": "Passed",
+            "url": "/votes/42-1/966/",
+            "session": "42-1",
+            "bill_url": "/bills/42-1/C-86/",
+            "nay_total": 108,
+            "date": "2018-12-03",
+            "yea_total": 169,
+            "paired_total": 0,
+            "number": 966,
+            "description": {
+                "fr": "3e lecture et adoption du projet de loi C-86, Loi no 2 portant ex\u00e9cution de certaines dispositions du budget d\u00e9pos\u00e9 au Parlement le 27 f\u00e9vrier 2018 et mettant en oeuvre d'autres mesures",
+                "en": "3rd reading and adoption of Bill C-86, A second Act to implement certain provisions of the budget tabled in Parliament on February 27, 2018 and other measures"
+            }
+        },
+        {
+            "result": "Failed",
+            "url": "/votes/42-1/965/",
+            "session": "42-1",
+            "bill_url": "/bills/42-1/C-86/",
+            "nay_total": 162,
+            "date": "2018-12-03",
+            "yea_total": 115,
+            "paired_total": 0,
+            "number": 965,
+            "description": {
+                "fr": "Projet de loi C-86, Loi no 2 portant ex\u00e9cution de certaines dispositions du budget d\u00e9pos\u00e9 au Parlement le 27 f\u00e9vrier 2018 et mettant en oeuvre d'autres mesures (nouveau renvoi \u00e0 un comit\u00e9)",
+                "en": "Bill C-86, A second Act to implement certain provisions of the budget tabled in Parliament on February 27, 2018 and other measures (recommittal to a committee)"
+            }
+        }
+    ]
+}
